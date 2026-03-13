@@ -1,0 +1,20 @@
+[{
+    "name":"Peckie",
+    "age": 27,
+    "isStudent": false
+},
+{
+    "name":"Tammy",
+    "age": 22,
+    "isStudent": true
+},
+{
+    "name":"Mickie",
+    "age": 25,
+    "isStudent": false
+},
+{
+    "name":"Nickie",
+    "age": 30,
+    "isStudent": true
+}]
